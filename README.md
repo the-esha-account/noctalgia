@@ -6,7 +6,8 @@ In **Noctalgia**, users play as a frog whose home has been lost due to the effec
 
 The name "noctalgia" means "sky grief," reflecting the game’s poignant theme. Its art style carries a nostalgic tone, mirroring the story’s emotional journey. The game uses technology to address the real-world problem of light pollution, while allowing a gripping tale with twists and turns.
 
-**Features:**
+## Features
+
 - Scalable 9-level design
 - Collectible pages stored in an in-game journal
 - Interactive environment with springs, spikes, and enemies
