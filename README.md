@@ -1,3 +1,5 @@
+![caption](images/noctalgiaDemo.gif)
+
 # Noctalgia
 
 Noctalgia is a Unity-based project exploring environmental and astronomical themes. This project demonstrates game mechanics, journal systems, and interactive elements implemented in C# within Unity.
