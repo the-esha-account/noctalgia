@@ -1,10 +1,10 @@
+# noctalgia 🌃
+
 ![caption](images/noctalgiaDemo.gif)
 
-# Noctalgia
+In noctalgia, users play as a frog whose home has been lost due to the effects of light pollution. Determined to make a difference, the frog documents ways humans can help, but the pages are thrown across the forest by his enemies. Players must guide the frog as he retrieves his pages and shows humans how to undo the harm done to his friends and family.
 
-In Noctalgia, users play as a frog whose home has been lost due to the effects of light pollution. Determined to make a difference, the frog documents ways humans can help, but the pages are thrown across the forest by his enemies. Players must guide the frog as he retrieves his pages and shows humans how to undo the harm done to his friends and family.
-
-The name Noctalgia means "sky grief," reflecting the game’s poignant theme. Its art style carries a nostalgic tone, mirroring the story’s emotional journey. The game uses technology to address a real-world problem, light pollution, while allowing a gripping story with the twists and turns of a platformer game.
+The name "noctalgia" means "sky grief," reflecting the game’s poignant theme. Its art style carries a nostalgic tone, mirroring the story’s emotional journey. The game uses technology to address a real-world problem, light pollution, while allowing a gripping story with the twists and turns of a platformer game.
 
 ## Project Structure
 
