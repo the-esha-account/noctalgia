@@ -1,4 +1,4 @@
-![Noctalgia gameplay demo!](images/noctalgiaDemo.gif)
+![caption](images/noctalgiaDemo.gif)
 
 # Noctalgia
 
