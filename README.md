@@ -18,4 +18,4 @@ The name "noctalgia" means "sky grief," reflecting the game’s poignant theme. 
 - `ProjectSettings/`: Unity project configuration files.
 - `Packages/`: Unity package manager dependencies.
 
-:warning: **Note:** The original artwork is **not included** in this repository, as the collaborating artist has not granted permission. While the game is **not** fully playable without it, all game logic, systems, and functionality are included, allowing a full review of the code and mechanics.
+:warning: **Note:** The original artwork is **not included** in this repository, as the collaborating artist has not granted permission. While the game is **not** fully playable without it, all the game logic, systems, and functionality are included, allowing a full review of the code and mechanics.
